@@ -21,11 +21,14 @@ Frontend
 - Tailwind CSS
 - Shadcn
 - Redux
+
 Backend
 - Node.js
 - Express.js
+
 Database
 - MongoDB
+
 Hosting
 - Aws
 
